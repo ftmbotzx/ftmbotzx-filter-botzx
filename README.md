@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://camo.githubusercontent.com/c9e8526b6f99548bb67029e94c989be5f99381fca262c55ec1cbfd684c06cb95/68747470733a2f2f656e76732e73682f5a53662e6d7034"> </p>
+<p align="center"> <img src="https://envs.sh/ZSy.jpg"> </p>
 <h1 align="center"> Fᴛᴍ Dᴇᴠᴇʟᴏᴘᴇʀᴢ </h1>
 
 **OWNER**
@@ -129,6 +129,7 @@ This repository is provided for educational purposes only. It is not intended fo
 This project is licensed under the [MIT License](https://github.com/ftmbotzx/ftmbotzx-filter-bot/blob/ftmbotzx/LICENSE)
 
 ### Jai Shree Krishna  !😉
+
 
 
 
